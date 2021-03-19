@@ -1,0 +1,10 @@
+3 ciocolata 5
+1 kitkat 5
+2 suc 7
+4 briosa 2
+5 corn 4
+6 acadea 2
+7 prajitura 12
+8 inghetata 6
+10 sprite 7
+12 cola 5
